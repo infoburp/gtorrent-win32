@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gTorrent Win32", "gTorrent Win32\gTorrent Win32.vcxproj", "{AEF36B4B-B0CF-41FA-A121-105EF88B5400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF36B4B-B0CF-41FA-A121-105EF88B5400}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AEF36B4B-B0CF-41FA-A121-105EF88B5400}.Debug|Win32.Build.0 = Debug|Win32
+		{AEF36B4B-B0CF-41FA-A121-105EF88B5400}.Release|Win32.ActiveCfg = Release|Win32
+		{AEF36B4B-B0CF-41FA-A121-105EF88B5400}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
